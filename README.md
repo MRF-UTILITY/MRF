@@ -1,6 +1,7 @@
 MRF Utility - Excel Add-In for Stock Taking and Tallying
 
 Welcome to the MRF Utility, an advanced Excel add-in designed to streamline stock-taking processes and tallying operations. This tool is specifically crafted for efficient handling of stock-related data, ensuring accuracy and saving time.
+
 Features
 
     Stock Taking Program: Easily manage and tally stock data for the INS Tube Flap.
@@ -40,3 +41,4 @@ I welcome contributions to enhance the functionality of this tool. Follow these 
 Support
 
 For support or queries, feel free to reach out through the Issues section.
+
