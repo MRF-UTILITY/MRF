@@ -79,22 +79,3 @@ Submit a pull request for review.
 💬 Support
 
 Have questions, suggestions, or issues? Reach out via the Issues section on GitHub. Happy to help.
-About
-
-MRF Utility Tool - A powerful Excel add-in useful for stock taking and tallying.
-github.com/MRF-UTILITY/MRF/blob/main/StockTaking55-v-1.0.5.xlam
-Resources
-Readme
-Activity
-Stars
-1 star
-Watchers
-0 watching
-Forks
-0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your f
