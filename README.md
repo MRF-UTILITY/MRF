@@ -4,23 +4,23 @@ Welcome to the MRF Utility—an advanced Excel add-in designed to optimize stock
 
 🚀 Key Features
 
-Stock Taking Program
+    Stock Taking Program
 
 Easily manage stock-taking sheets by product groups and efficiently tally data for the INS Tube Flap.
 
-Customizable Reports
+    Customizable Reports
 
 Export data directly from SAP transactions (ZNBPSTK, ZDL) and process it seamlessly in Excel.
 
-Set Checker Tool
+    Set Checker Tool
 
 Validate and cross-check set billings with a single click for accurate reporting.
 
-Find Error Invoice
+    Find Error Invoice
 
 Easily get the Invoice numbers and date in which proper Set billing were missing. Can be run after processing Set Checking tool.
 
-Pull Compliance Tool
+    Pull Compliance Tool
 
 Automate the FDC to SOF workflows using predefined templates, streamlining data handling.
 
@@ -44,11 +44,11 @@ Access the utility via the M R F tab in the Excel Ribbon.
 
 ⚙️ How to Use
 
-Export Data from SAP
+    Export Data from SAP
 
 Generate spreadsheets from relevant SAP transactions (e.g., ZNBPSTK, ZDL).
 
-Utilize the MRF Utility Features
+    Utilize the MRF Utility Features
 
 Stock Taking Program: Use the M R F tab to execute the INS Tube Flap tallying process.
 
