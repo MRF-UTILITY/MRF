@@ -3,7 +3,7 @@
 ![Version](https://img.shields.io/badge/version-1.0.5-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20Excel-lightgray.svg)
 
-Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s stock-taking and tallying processes. Whether you're managing stock data or automating workflows, this tool ensures precision and saves valuable time.
+Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize stock-taking and tallying processes. Whether you're managing stock data or automating workflows, this tool ensures precision and saves valuable time.
 
 ## 📑 Table of Contents
 - [Key Features](#-key-features)
@@ -20,8 +20,8 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 
 * **Stock Taking Program:** Easily manage stock-taking sheets by product groups and efficiently tally data for the INS Tube Flap.
 * **Customizable Reports:** Export data directly from SAP transactions (`ZNBPSTK`, `ZDL`) and process it seamlessly in Excel.
-* **Set Checker Tool:** Validate and cross-check set billings with a single click for accurate reporting.
-* **Find Error Invoice:** Quickly retrieve the invoice numbers and dates where proper set billing was missing. *(Best run immediately after the Set Checking tool).*
+* **Set Checker Tool:** Validate and cross-check set billings with a single click for accurate reporting. (`ZIRN_VIEW_LINES`)
+* **Find Error Invoice:** Quickly retrieve the invoice numbers and dates where proper set billing were missing. *(Best to run immediately after the Set Checking tool).*
 * **Pull Compliance Tool:** Automate FDC to SOF workflows using predefined templates to streamline data handling.
 
 ---
@@ -36,7 +36,7 @@ Before installing, ensure your system meets the following requirements:
 
 ## 🛠️ Installation Steps
 
-1.  **Download:** Grab the latest `.xlam` release from the [GitHub Releases](../../releases) page.
+1.  **Download:** Grab the latest `.xlam` release from the [GitHub Releases](https://github.com/MRF-UTILITY/MRF/blob/main/StockTaking55-v-1.0.5.xlam) page.
 2.  **Unblock the File:** > ⚠️ **Important Windows Security Step:** > Locate the downloaded `.xlam` file, right-click it, and select **Properties**. At the bottom of the *General* tab under *Security*, check the **Unblock** box, and click **OK**.
 3.  **Open Excel:** Launch Microsoft Excel.
 4.  **Navigate to Add-ins:** Go to `File` > `Options` > `Add-ins`.
@@ -52,7 +52,7 @@ Before installing, ensure your system meets the following requirements:
 2.  **Open the M R F Tab:** Navigate to the new custom tab in your Excel ribbon.
 3.  **Execute Workflows:**
     * *Stock Taking:* Run the INS Tube Flap tallying process.
-    * *Set Checker:* Run the validation to instantly report on set billings. Use SAP transaction ("ZIRN_VIEW_LINES")
+    * *Set Checker:* Run the validation to instantly report on set billings. Use SAP transaction (`ZDL`).
     * *Pull Compliance:* Select your predefined templates to manage FDC to SOF workflows.
 
 ---
@@ -82,7 +82,7 @@ Excited to collaborate with contributors! To help enhance this tool, please foll
 
 ## 💬 Support
 
-Have questions, suggestions, or running into issues? Reach out via the Issues section on GitHub. Happy to help!
+Have questions, suggestions, or running into issues? Reach out via the [Issues](../../issues) section on GitHub. Happy to help!
 
 
    
