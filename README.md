@@ -57,6 +57,18 @@ Before installing, ensure your system meets the following requirements:
 
 ---
 
+## 📸 Screenshots
+
+*(Add screenshots or short GIFs here — highly recommended for maximum impact)*
+
+![MRF Ribbon Tab](https://via.placeholder.com/800x400/0078D4/FFFFFF?text=MRF+Ribbon+Tab)  
+![Stock Taking Interface](https://via.placeholder.com/800x400/00A4EF/FFFFFF?text=Stock+Taking+Tool)  
+![Set Checker Results](https://via.placeholder.com/800x400/21759B/FFFFFF?text=Set+Checker+Report)
+
+
+---
+
+
 ## 🔄 Updates & Version Control
 
 This add-in features built-in version checking. It will automatically check against the GitHub repository to notify you if a newer version of the utility is available, ensuring you are always running the latest code and features.
