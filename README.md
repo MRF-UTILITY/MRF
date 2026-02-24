@@ -1,4 +1,4 @@
-# 📈 MRF Utility Excel Add-In
+# 📗 MRF Utility Excel Add-In
 
 ![Version](https://img.shields.io/badge/version-1.0.5-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20Excel-lightgray.svg)
@@ -18,10 +18,10 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 
 ## 🚀 Key Features
 
-* **Stock Taking Program:** Easily manage stock-taking sheets by product groups and efficiently tally data for the INS Tube Flap.
+* **Stock Taking Program:** Easily manage stock-taking sheets by Product Groups and efficiently tally data for the INS Tube Flap.
 * **Customizable Reports:** Export data directly from SAP transactions (`ZNBPSTK`, `ZDL`) and process it seamlessly in Excel.
 * **Set Checker Tool:** Validate and cross-check set billings with a single click for accurate reporting. (`ZIRN_VIEW_LINES`)
-* **Find Error Invoice:** Quickly retrieve the invoice numbers and dates where proper set billing were missing. *(Best to run immediately after the Set Checking tool).*
+* **Find Error Invoice:** Quickly retrieve the Invoice numbers and dates where proper set billing were missing. *(Best to run immediately after the **Set Checker tool**).*
 * **Pull Compliance Tool:** Automate FDC to SOF workflows using predefined templates to streamline data handling.
 
 ---
@@ -30,7 +30,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 
 Before installing, ensure your system meets the following requirements:
 * **Microsoft Excel:** 2010 or later.
-* **Trust Center Settings:** Must be enabled in your Excel Trust Center (one-time setup).
+* **Trust Center Settings:** Must be enabled in your Excel Trust Center (one-time setup). ([See the step-by-step setup guide](https://github.com/MRF-UTILITY/MRF/blob/main/Guide%20to%20Install%20Add-in%20file%20in%20Excel.pptx)).
 
 ---
 
@@ -68,6 +68,7 @@ This add-in features built-in version checking. It will automatically check agai
 Excited to collaborate with contributors! To help enhance this tool, please follow these steps:
 
 1. Fork this repository.
+   
 2. Create a new branch for your feature:
    ```bash
    git checkout -b feature/your-feature-name
