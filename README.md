@@ -48,12 +48,13 @@ Before installing, ensure your system meets the following requirements:
 
 ## ⚙️ How to Use
 
-1.  **Export Data from SAP:** Generate and download your spreadsheets from the relevant SAP transactions (e.g., `ZNBPSTK`, `ZDL`).
+1.  **Export Data from SAP:** Generate and download your spreadsheets from the relevant SAP transactions.
 2.  **Open the M R F Tab:** Navigate to the new custom tab in your Excel ribbon.
 3.  **Execute Workflows:**
-    * *Stock Taking:* Run the INS Tube Flap tallying process.
-    * *Set Checker:* Run the validation to instantly report on set billings. Use SAP transaction (`ZDL`).
-    * *Pull Compliance:* Select your predefined templates to manage FDC to SOF workflows.
+    * *Stock Taking:* Run to process product group wise stock taking sheets and to review the INS Tube Flap descripency in stock. Use SAP transaction (`ZNBPSTK`, `ZDL`)
+    * *Set Checker:* Run the validation to instantly report on set billings. Use SAP transaction (`ZIRN_VIEW_LINES`).
+    * *Pull Compliance:* Run to manage FDC to SOF workflows. (Make sure Source File excel workbook available in FDC TO SOF folder in D Drive. Path D:\FDC TO SOF\SOURCE FILE.xlsx).   
+    * *Find Error Invoice:* Run to quickly review Invoice numbers & dates for Improper Set Billing. Need to run only after Set Checker tool process completes.
 
 ---
 
@@ -63,9 +64,9 @@ This add-in features built-in version checking. It will automatically check agai
 
 ---
 
-## 🤝 Contributing
+## 💡 Suggesting Enhancements for Continious Improvement
 
-Excited to collaborate with contributors! To help enhance this tool, please follow these steps:
+Excited to collaborate with contributors! To help enhance this tool & add more features, please follow these steps:
 
 1. Fork this repository.
    
