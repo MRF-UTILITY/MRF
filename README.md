@@ -30,7 +30,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 
 Before installing, ensure your system meets the following requirements:
 * **Microsoft Excel:** 2010 or later.
-* **<span style="color:red;">Trust Center Settings:</span>** Must be enabled in your Excel Trust Center (one-time setup). ([See the step-by-step setup guide](https://github.com/MRF-UTILITY/MRF/blob/main/Guide%20to%20Install%20Add-in%20file%20in%20Excel.pptx)).
+* **<span style="color:red;">Trust Center Settings:</span>** Must be enabled in your Excel Trust Center (One-time setup). ([See the step-by-step setup guide](https://github.com/MRF-UTILITY/MRF/blob/main/Guide%20to%20Install%20Add-in%20file%20in%20Excel.pptx)).
 
 ---
 
@@ -51,9 +51,12 @@ Before installing, ensure your system meets the following requirements:
 1.  **Export Data from SAP:** Generate and download your spreadsheets from the relevant SAP transactions.
 2.  **Open the M R F Tab:** Navigate to the new custom tab in your Excel ribbon.
 3.  **Execute Workflows:**
-    * *Stock Taking:* Run to process product group wise stock taking sheets and to review the INS Tube Flap descripency in stock. Use SAP transaction (`ZNBPSTK`, `ZDL`). ([See the step-by-step Instruction File](https://github.com/MRF-UTILITY/MRF/blob/main/INS%20Tube%20Flap%20Stock%20aking%20Tool%20Guide.docx)).
+    * *Stock Taking:* Run to process product group wise stock taking sheets and to review the INS Tube Flap descripency in stock. Use SAP transaction (`ZNBPSTK`, `ZDL`). ([See the step-by-step Instruction File](https://github.com/MRF-UTILITY/MRF/blob/main/INS%20Tube%20Flap%20Stock%20Taking%20Tool%20Guide.docx)).
+      
     * *Set Checker:* Run the validation to instantly report on set billings. Use SAP transaction (`ZIRN_VIEW_LINES`). ([See the step-by-step Instruction File](https://github.com/MRF-UTILITY/MRF/blob/main/Set%20Checking%20Tool%20Guide.docx)).
-    * *Pull Compliance:* Run to manage FDC to SOF workflows. (Make sure *Source File* excel workbook available in FDC TO SOF folder in D Drive. Path should be D:\FDC TO SOF\SOURCE FILE.xlsx). **VERY IMPORTANT**--User must review & update this Source file excel workbook themselves for any missing material codes where proper INS Tube/Flaps are not appearing & also for adding any new Tube-Type tyre in the list from time to time to ensuring proper set billing in IBTA's to SOF's from their FDC.     
+      
+    * *Pull Compliance:* Run to manage FDC to SOF workflows. (Make sure *Source File* excel workbook available in FDC TO SOF folder in D Drive. Path should be D:\FDC TO SOF\SOURCE FILE.xlsx). **VERY IMPORTANT**--User must review & update this Source file excel workbook themselves for any missing material codes where proper INS Tube/Flaps are not appearing & also for adding any new Tube-Type tyre in the list from time to time to ensuring proper set billing in IBTA's to SOF's from their FDC.
+           
     * *Find Error Invoice:* Run to quickly review Invoice numbers & dates for Improper Set Billing. Need to run only after Set Checker tool process completed.
 
 ---
