@@ -1,4 +1,4 @@
-# <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="Excel Logo" width="28" height="28" align="top"> MRF Utility Excel Add-In
+# 📗 MRF Utility Excel Add-In
 
 ![Version](https://img.shields.io/badge/version-1.0.5-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20Excel-lightgray.svg)
