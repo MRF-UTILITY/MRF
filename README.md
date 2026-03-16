@@ -58,8 +58,11 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 
 3. **Execute Workflows:**
    * **Stock Taking:** Run to process product-group-wise stock-taking sheets and to review the INS Tube Flap discrepancy in stock. Use SAP transactions (`ZNBPSTK`, `ZDL`). [See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/blob/main/Stock%20Taking%20Tool%20Guide.docx).
+     
    * **Set Checker:** Run the validation to instantly report on set billings. Use SAP transaction (`ZIRN_VIEW_LINES`). [See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/blob/main/Set%20Checking%20Tool%20Guide.docx).
+     
    * **Find Error Invoice:** Run to quickly review Invoice numbers and dates for Improper Set Billing. Best to run after the *Set Checker* tool process is completed.
+     
    * **Pull Compliance:** Run to manage FDC to SOF workflows using T-Code `ME21N`, `MB1B`. Make sure the *`Source File.xlsx`* Excel workbook is available in the `FDC TO SOF` folder on your D Drive. *(Path: `D:\FDC TO SOF\SOURCE FILE.xlsx`)*.
 
 > [!WARNING]
