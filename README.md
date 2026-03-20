@@ -1,4 +1,5 @@
 # 📗 MRF Utility Excel Add-In
+<img src="https://your-gif-link.gif" width="700">
 
 [![Version](https://img.shields.io/badge/version-1.0.5-blue.svg)](https://github.com/MRF-UTILITY/MRF/raw/main/StockTaking55-v-1.0.5.xlam)
 
