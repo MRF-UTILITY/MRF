@@ -4,7 +4,7 @@
 
 # 📗 MRF Utility Excel Add-In
 
-[![Download](https://img.shields.io/badge/Download%20Add--in-v1.0.5-FF6F00?style=for-the-badge&logo=download&logoColor=white)](https://github.com/MRF-UTILITY/MRF/raw/main/StockTaking55-v-1.0.5.xlam)
+![Version](https://img.shields.io/badge/version-1.0.5-0078D4?style=for-the-badge&logo=github&logoColor=white)
 
 Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize stock-taking and tallying processes. Whether you're managing stock data or automating workflows, this tool ensures precision and saves valuable time.
 
