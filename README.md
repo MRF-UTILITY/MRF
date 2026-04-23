@@ -32,11 +32,11 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 
 ## 📋 Prerequisites
 
-* **Microsoft Excel:** 2010 or later.
-
 > [!IMPORTANT]
 > **Trust Center Settings:** Before using this add-in, you must configure your Excel Trust Center settings to allow the add-in to work. *(One-Time Setup)*. [See the step-by-step setup guide](https://github.com/MRF-UTILITY/MRF/blob/main/Guide%20to%20Install%20Add-in%20file%20in%20Excel.pptx).
 
+* **Microsoft Excel:** 2010 or later.
+ 
 ---
 
 ## 🛠️ Installation Steps
