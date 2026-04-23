@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=220&section=header&text=MRF%20Utility%20Excel%20Add-in&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Stock%20Taking%20%7C%20Automation%20%7C%20SAP%20Integration&descAlignY=55&descSize=16" /></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=220&section=header&text=MRF%20Utility%20Excel%20Add-in&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Stock%20Taking%20%7C%20Automation%20%7C%20SAP%20Integration&descAlignY=55&descSize=16" />
+</p>
 
 # 📗 MRF Utility Excel Add-In
 
