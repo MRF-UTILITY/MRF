@@ -1,4 +1,5 @@
-# 📗 MRF Utility Excel Add-In
+## 📗 MRF Utility Excel Add-In  
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="28"/> Excel Automation Tool
 
 [![Version](https://img.shields.io/badge/version-1.0.5-blue.svg "Download Excel Add-in v-1.0.5")](https://github.com/MRF-UTILITY/MRF/raw/main/StockTaking55-v-1.0.5.xlam)
 
