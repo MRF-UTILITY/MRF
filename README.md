@@ -4,7 +4,7 @@
 
 # 📗 MRF Utility Excel Add-In
 
-[![Version](https://img.shields.io/badge/version-1.0.5-0078D4?style=for-the-badge&logo=github&logoColor=white "Download Excel Add-in v1.0.5")](https://avyukta22.github.io/DUMMY_111/download.html)
+[![Version](https://img.shields.io/badge/version-1.0.5-0078D4?style=for-the-badge&logo=github&logoColor=white "Download the Excel Add-in v-1.0.5")](https://avyukta22.github.io/DUMMY_111/download.html)
 
 Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize stock-taking and tallying processes. Whether you're managing stock data or automating workflows, this tool ensures precision and saves valuable time.
 
@@ -65,7 +65,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
      
    * **Set Checker:** Run the validation to instantly report on set billings. Use SAP transaction (`ZIRN_VIEW_LINES`). [See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Set%20Checking%20Tool%20Guide.docx).
      
-   * **Find Error Invoice:** Run to quickly review Invoice numbers and dates for Improper Set Billing. Best to run after the *Set Checker* tool process is completed.
+   * **Find Error Invoice:** Run to quickly review Invoice numbers and dates for Improper Set Billing. This tool is designed to be executed only after the *Set Checker* process completes.
      
    * **Pull Compliance:** Run to manage FDC to SOF workflows using T-Code `ME21N`, `MB1B`. Make sure the *`Source File.xlsx`* Excel workbook is available in the `FDC TO SOF` folder on your D Drive. *(Path: `D:\FDC TO SOF\SOURCE FILE.xlsx`)*.
 
