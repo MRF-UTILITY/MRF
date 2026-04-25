@@ -41,7 +41,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 
 ## 🛠️ Installation Steps
 
-1. **Download:** Grab the latest add-in `.xlam` release from the [GitHub Releases](https://github.com/MRF-UTILITY/MRF/raw/main/StockTaking55-v-1.0.5.xlam) page.
+1. **Download:** Grab the latest add-in `.xlam` release from the [GitHub Releases](https://github.com/MRF-UTILITY/MRF/blob/main/StockTaking55-v-1.0.5.xlam) page.
 2. **Unblock the File:** > **Important Windows Security Step:** > Locate the downloaded `.xlam` add-ins file, right-click it, and select **Properties**. At the bottom of the *General* tab under *Security*, check the **Unblock** box, and click **OK**.
 3. **Open Excel:** Launch Microsoft Excel.
 4. **Navigate to Add-ins:** Go to `File` > `Options` > `Add-ins`.
@@ -61,7 +61,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 2. **Open the M R F Tab:** Navigate to the new custom tab in your Excel ribbon.
 
 3. **Execute Workflows:**
-   * **Stock Taking:** Run to process product-group-wise stock-taking sheets and to review the INS Tube Flap discrepancy in stock. Use SAP transactions (`ZNBPSTK`, `ZDL`). [See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/blob/main/Stock%20Taking%20Tool%20Guide.docx).
+   * **Stock Taking:** Run to process product-group-wise stock-taking sheets and to review the INS Tube Flap discrepancy in stock. Use SAP transactions (`ZNBPSTK`, `ZDL`). [See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Stock%20Taking%20Tool%20Guide.docx).
      
    * **Set Checker:** Run the validation to instantly report on set billings. Use SAP transaction (`ZIRN_VIEW_LINES`). [See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/blob/main/Set%20Checking%20Tool%20Guide.docx).
      
