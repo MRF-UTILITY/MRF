@@ -70,7 +70,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
    * **Pull Compliance:** Run to manage FDC to SOF workflows using T-Code `ME21N`, `MB1B`. Make sure the *`Source File.xlsx`* Excel workbook is available in the `FDC TO SOF` folder on your D Drive. *(Path: `D:\FDC TO SOF\SOURCE FILE.xlsx`)*.
 
 > [!WARNING]
-> ⚠️ ***Very Important Pull Compliance Step | Only for FDC to SOF Pull Purpose :*** Users must review and update the `Source File.xlsx` workbook located in `D:\FDC TO SOF\` themselves for any missing/Incorrect material codes where proper INS Tube/Flaps are not appearing. You must also add any new Tube-Type Tyre sizes to the list from time to time to ensure proper set billing from FDC to SOFs in IBTAs.  Keeping this file up to date is essential for accurate set billing.
+> ⚠️ ***Very Important Pull Compliance Step | Only for FDC to SOF Pull Purpose :*** Users must review and update the given `Source File.xlsx` workbook located in `D:\FDC TO SOF\` themselves for any missing/Incorrect material codes where correct INS Tube/Flaps are not appearing. You must also add any new Tube-Type Tyre sizes to the list from time to time to ensure proper set billing from FDC to SOFs in IBTAs.  Keeping this file up to date is essential for accurate set billing.
 
 ---
 
