@@ -33,7 +33,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 ## 📋 Prerequisites
 
 > [!IMPORTANT]
-> **Trust Center Settings:** Before using this add-in, you must configure your Excel Trust Center settings in your system to allow the add-in to work. *(Just a One-Time Setup)*. [See the step-by-step setup guide](https://github.com/MRF-UTILITY/MRF/raw/main/Guide%20to%20Install%20Add-in%20file%20in%20Excel.pptx "View the Step-by-step Trust Center Settings Guide").
+> **Trust Center Settings:** Before using this add-in, you must configure your Excel Trust Center settings in your system to allow the add-in to work. *(Just a One-Time Setup)*. [📄See the step-by-step setup guide](https://github.com/MRF-UTILITY/MRF/raw/main/Guide%20to%20Install%20Add-in%20file%20in%20Excel.pptx "View the Step-by-step Trust Center Settings Guide").
 
 * **Microsoft Excel:** 2010 or later.
  
@@ -61,9 +61,9 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 2. **Open the M R F Tab:** Navigate to the new custom tab in your Excel ribbon.
 
 3. **Execute Workflows:**
-   * **Stock Taking:** Run to process product-group-wise stock-taking sheets and to review the INS Tube Flap discrepancy in stock. Use SAP transactions (`ZNBPSTK`, `ZDL`). [📄 See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Stock%20Taking%20Tool%20Guide.docx "View the Stock Taking tool Instruction Guide").
+   * **Stock Taking:** Run to process product-group-wise stock-taking sheets and to review the INS Tube Flap discrepancy in stock. Use SAP transactions (`ZNBPSTK`, `ZDL`). [📄See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Stock%20Taking%20Tool%20Guide.docx "View the Stock Taking tool Instruction Guide").
      
-   * **Set Checker:** Run the validation to instantly report on set billings. Use SAP transaction (`ZIRN_VIEW_LINES`). [See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Set%20Checking%20Tool%20Guide.docx).
+   * **Set Checker:** Run the validation to instantly report on set billings. Use SAP transaction (`ZIRN_VIEW_LINES`). [📄See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Set%20Checking%20Tool%20Guide.docx "View the Set Checker tool Instruction Guide").
      
    * **Find Error Invoice:** Run to quickly review Invoice numbers and dates of Improper Set Billings. This tool is designed to be executed only after the *Set Checker* process completes.
      
