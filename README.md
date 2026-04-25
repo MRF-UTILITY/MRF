@@ -82,7 +82,7 @@ This add-in will automatically check against the GitHub repository to notify you
 
 ## 💡 Suggesting Enhancements for Continuous Improvement
 
-Excited to collaborate with contributors! To help enhance this tool & add more features, please follow these steps:
+Excited to collaborate with contributors! To help enhance this tool & add your own features, please follow these steps:
 
 1. Fork this repository.
    ```bash
@@ -101,5 +101,5 @@ Excited to collaborate with contributors! To help enhance this tool & add more f
 
 ## 💬 Support
 
-Have questions, suggestions, or running into issues? Reach out via the [Issues](../../issues) section on GitHub. Happy to help!
+Have questions, suggestions, or running into issues? Reach out for any required help via the [Issues](../../issues) section on GitHub. Happy to help!
 
