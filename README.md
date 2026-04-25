@@ -103,3 +103,9 @@ Excited to collaborate with contributors! To help enhance this tool & add your o
 
 Have questions, suggestions, or running into issues? Reach out for any required help via the [Issues](../../issues) section on GitHub. Happy to help!
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100"/>
+</p>
+
