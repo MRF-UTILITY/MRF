@@ -47,7 +47,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 4. **Navigate to Add-ins:** Go to `File` > `Options` > `Add-ins`.
 5. **Manage Add-ins:** At the bottom of the window, ensure *Manage* is set to **Excel Add-ins**, then click **Go...**.
 
-6. **Browse and Install:** Click **Browse**, locate your unblocked `.xlam` add-in file, select it, and click **OK**.
+6. **Browse and Install:** Click **Browse**, locate your downloaded unblocked `.xlam` add-in file, select it, and click **OK**.
 7. **Access the Utility:** You will now see a dedicated **M R F** tab in your Excel Ribbon!
 
 > [!NOTE]
@@ -67,7 +67,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
      
    * **Find Error Invoice:** Run to quickly review Invoice numbers and dates of Improper Set Billings. This tool is designed to be executed only after the *Set Checker* process completes.
      
-   * **Pull Compliance:** Run to manage FDC to SOF workflows using T-Code `ME21N`, `MB1B`. Make sure the *`Source File.xlsx`* Excel workbook is available in the `FDC TO SOF` folder on your D Drive. *(Path: `D:\FDC TO SOF\SOURCE FILE.xlsx`)*.
+   * **Pull Compliance:** Run directly on downloaded un-edited Pull file to manage FDC to SOF workflows using T-Code `ME21N`, `MB1B`. Make sure the *`Source File.xlsx`* Excel workbook is available in the `FDC TO SOF` folder on your D Drive. *(Path: `D:\FDC TO SOF\SOURCE FILE.xlsx`)*.
 
 > [!WARNING]
 > ⚠️ ***Very Important Pull Compliance Step | Only for FDC to SOF Pull Purpose :*** Users must manually review & update the given `Source File.xlsx` workbook located in `D:\FDC TO SOF\` themselves for any missing/Incorrect material codes where correct INS Tube/Flaps are not appearing. You must also add any new Tube-Type Tyre sizes to the list from time to time to ensure proper set billing from FDC to SOF's in IBTAs.  Keeping this file up to date is essential for accurate set billing to SOF's.
