@@ -41,7 +41,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 
 ## 🛠️ Installation Steps
 
-1. **Download:** Grab the latest `.xlam` add-in release: [📥 Download](https://avyukta22.github.io/DUMMY_111/download.html "Download the Excel Add-in v-1.0.5"), or visit the [GitHub Releases Page](https://github.com/MRF-UTILITY/MRF/blob/main/StockTaking55-v-1.0.5.xlam).
+1. **Download:** Grab the latest `.xlam` add-in release**:** [📥 Download](https://avyukta22.github.io/DUMMY_111/download.html "Download the Excel Add-in v-1.0.5"), or visit the [GitHub Releases Page](https://github.com/MRF-UTILITY/MRF/blob/main/StockTaking55-v-1.0.5.xlam).
 2. **Unblock the File:** > **Important Windows Security Step:** > Locate the downloaded `.xlam` add-ins file, right-click it, and select **Properties**. At the bottom of the *General* tab under *Security*, check the **Unblock** box, and click **OK**.
 3. **Open Excel:** Launch Microsoft Excel.
 4. **Navigate to Add-ins:** Go to `File` > `Options` > `Add-ins`.
