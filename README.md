@@ -61,13 +61,13 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 2. **Open the M R F Tab:** Navigate to the new custom tab in your Excel ribbon.
 
 3. **Execute Workflows:**
-   * **Stock Taking:** Run to process product-group-wise stock-taking sheets and to review the INS Tube Flap discrepancy in stock. Use SAP transactions (`ZNBPSTK`, `ZDL`). [📄See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Stock%20Taking%20Tool%20Guide.docx "View the Stock Taking tool Instruction Guide").
+   * **⚡Stock Taking:** Run to process product-group-wise stock-taking sheets and to review the INS Tube Flap discrepancy in stock. Use SAP transactions (`ZNBPSTK`, `ZDL`). [📄See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Stock%20Taking%20Tool%20Guide.docx "View the Stock Taking tool Instruction Guide").
      
-   * **Set Checker:** Run the validation to instantly report on incorrect set billings. Use SAP transaction (`ZIRN_VIEW_LINES`). [📄See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Set%20Checking%20Tool%20Guide.docx "View the Set Checker tool Instruction Guide").
+   * **⚡Set Checker:** Run the validation to instantly report on incorrect set billings. Use SAP transaction (`ZIRN_VIEW_LINES`). [📄See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Set%20Checking%20Tool%20Guide.docx "View the Set Checker tool Instruction Guide").
      
-   * **Find Error Invoice:** Run to quickly review Invoice numbers and dates of Improper Set Billings. This tool is designed to be executed only after the *Set Checker* process completes.
+   * **⚡Find Error Invoice:** Run to quickly review Invoice numbers and dates of Improper Set Billings. This tool is designed to be executed only after the *Set Checker* process completes.
      
-   * **Pull Compliance:** Run directly on downloaded un-edited Pull file to manage FDC to SOF workflows using T-Code `ME21N`, `MB1B`. Make sure the *`Source File.xlsx`* Excel workbook is available in the `FDC TO SOF` folder on your D Drive. *(Path: `D:\FDC TO SOF\SOURCE FILE.xlsx`)*.
+   * **⚡Pull Compliance:** Run directly on downloaded un-edited Pull file to manage FDC to SOF workflows using T-Code `ME21N`, `MB1B`. Make sure the *`Source File.xlsx`* Excel workbook is available in the `FDC TO SOF` folder on your D Drive. *(Path: `D:\FDC TO SOF\SOURCE FILE.xlsx`)*.
 
 > [!WARNING]
 > ⚠️ ***Very Important Pull Compliance Step | Only for FDC to SOF Pull Purpose :*** Users must manually review & update the given `Source File.xlsx` workbook located in `D:\FDC TO SOF\` themselves for any missing/Incorrect material codes where correct INS Tube/Flaps are not appearing. You must also add any new Tube-Type Tyre sizes to the list from time to time to ensure proper set billing from FDC to SOF's in IBTAs.  Keeping this file up to date is essential for accurate set billing to SOF's.
