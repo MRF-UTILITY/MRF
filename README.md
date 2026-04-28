@@ -61,7 +61,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 2. **Open the M R F Tab:** Navigate to the new custom tab in your Excel ribbon.
 
 3. **Execute Workflows:**
-   * **⚡<span style="color:#0078D4;">Stock Taking Tool:</span>** Run to process product-group-wise stock-taking sheets and to review the INS Tube Flap discrepancy in stock. Use SAP transactions (`ZNBPSTK`, `ZDL`). [📄See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Stock%20Taking%20Tool%20Guide.docx "View the Stock Taking tool Instruction Guide").
+   * **⚡Stock Taking Tool:** Run to process product-group-wise stock-taking sheets and to review the INS Tube Flap discrepancy in stock. Use SAP transactions (`ZNBPSTK`, `ZDL`). [📄See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Stock%20Taking%20Tool%20Guide.docx "View the Stock Taking tool Instruction Guide").
      
    * **⚡Set Checker Tool:** Run the validation to instantly report on incorrect set billings. Use SAP transaction (`ZIRN_VIEW_LINES`). [📄See the Instruction Guide](https://github.com/MRF-UTILITY/MRF/raw/main/Set%20Checking%20Tool%20Guide.docx "View the Set Checker tool Instruction Guide").
      
@@ -76,7 +76,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 
 ## 🔄 Updates & Version Control
 
-This add-in will automatically check against the GitHub repository to notify you if a newer version of the utility is available, ensuring you are always running the latest code and features.
+<span style="color:#0078D4;">This add-in will automatically check against the GitHub repository to notify you if a newer version of the utility is available, ensuring you are always running the latest code and features.</span>
 
 ---
 
