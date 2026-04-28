@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=220&section=header&text=MRF%20Utility%20Excel%20Add-in&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Excel%20%7C%20Automation%20%7C%20SAP%20Integration&descAlignY=55&descSize=16" />
 </p>
 
-# 📗 MRF Utility Excel Add-In
+# 📚 MRF Utility Excel Add-In
 
 [![Version](https://img.shields.io/badge/version-1.0.5-0078D4?style=for-the-badge&logo=github&logoColor=white "Download the Excel Add-in v-1.0.5")](https://avyukta22.github.io/DUMMY_111/download.html)
 
@@ -33,7 +33,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 ## 📋 Prerequisites
 
 > [!IMPORTANT]
-> **Trust Center Settings:** Before using this add-in, you must configure your Excel Trust Center settings in your system to allow the add-in to work. *(Just a One-Time Setup)*. [📄See the step-by-step setup guide](https://github.com/MRF-UTILITY/MRF/raw/main/Guide%20to%20Install%20Add-in%20file%20in%20Excel.pptx "View the Step-by-step Trust Center Settings Guide").
+> 🛡️ **Trust Center Settings:** Before using this add-in, you must configure your Excel Trust Center settings in your system to allow the add-in to work. *(Just a One-Time Setup)*. [📄See the step-by-step setup guide](https://github.com/MRF-UTILITY/MRF/raw/main/Guide%20to%20Install%20Add-in%20file%20in%20Excel.pptx "View the Step-by-step Trust Center Settings Guide").
 
 * **Microsoft Excel:** 2010 or later.
  
