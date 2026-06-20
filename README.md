@@ -6,7 +6,7 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.5-0078D4?style=for-the-badge&logo=github&logoColor=white "Download the Excel Add-in v-1.0.5")](https://avyukta22.github.io/DUMMY_111/download.html)
 
-Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize stock-taking and tallying processes. Whether you're managing stock data or automating workflows, this tool ensures precision and saves valuable time.
+Welcome to the **MRF Utility** <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="28" height="28"> — an advanced Excel add-in designed to optimize stock-taking and tallying processes. Whether you're managing stock data or automating workflows, this tool ensures precision and saves valuable time.
 
 ## 📑 Table of Contents
 - [Key Features](#-key-features)
@@ -19,7 +19,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 
 ---
 
-## 🚀 Key Features
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"> Key Features
 
 | Feature | Description | SAP Transaction |
 |---|---|---|
@@ -46,7 +46,6 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 3. **Open Excel:** Launch Microsoft Excel.
 4. **Navigate to Add-ins:** Go to `File` > `Options` > `Add-ins`.
 5. **Manage Add-ins:** At the bottom of the window, ensure *Manage* is set to **Excel Add-ins**, then click **Go...**.
-
 6. **Browse and Install:** Click **Browse**, locate your downloaded unblocked `.xlam` add-in file, select it, and click **OK**.
 7. **Access the Utility:** You will now see a dedicated **M R F** tab in your Excel Ribbon!
 
@@ -55,7 +54,7 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 
 ---
 <a id="how-to-use"></a>
-## ⚙️ How to Use
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙️" width="32" height="32"> How to Use
 
 1. **Export Data from SAP:** Generate and download your spreadsheets from the relevant SAP transactions.
 2. **Open the M R F Tab:** Navigate to the new custom tab in your Excel ribbon.
@@ -85,25 +84,5 @@ Welcome to the **MRF Utility**—an advanced Excel add-in designed to optimize s
 Excited to collaborate with contributors! To help enhance this tool & add your own features, please follow these steps:
 
 1. Fork this repository.
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/MRF.git   
-2. Create a new branch for your feature:
-   ```bash
-   git checkout -b feature/your-feature-name
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your feature"
-4. Push the branch:
-   ```bash
-   git push origin feature/your-feature-name
-
----
-
-## 💬 Support
-
-Have questions, suggestions, or running into issues? Reach out for any required help via the [Issues](../../issues) section on GitHub. Happy to help!
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=100&section=footer&width=120"/>
-</p>
-
+```bash
+   git clone [https://github.com/YOUR-USERNAME/MRF.git](https://github.com/YOUR-USERNAME/MRF.git)
