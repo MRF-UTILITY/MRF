@@ -89,4 +89,23 @@ Excited to collaborate with contributors! To help enhance this tool & add your o
 
 1. Fork this repository.
    ```bash
-   git clone [https://github.com/YOUR-USERNAME/MRF.git](https://github.com/YOUR-USERNAME/MRF.git)
+   git clone [https://github.com/YOUR-USERNAME/MRF.git](https://github.com/YOUR-USERNAME/MRF.git)   
+2. Create a new branch for your feature:
+   ```bash
+   git checkout -b feature/your-feature-name
+3. Commit your changes:
+   ```bash
+   git commit -m "Add your feature"
+4. Push the branch:
+   ```bash
+   git push origin feature/your-feature-name
+
+---
+
+## 💬 Support
+
+Have questions, suggestions, or running into issues? Reach out for any required help via the [Issues](../../issues) section on GitHub. Happy to help!
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00C6FF&height=100&section=footer&width=120"/>
+</p>
